@@ -1,0 +1,731 @@
+[
+  {
+    "BhaktaId": "PRADYUMNA KUMAR PATTANAIK",
+    "UniqueId": "KSS0001",
+    "Transactions": [
+      {
+        "TranId": "427",
+        "PranamiId": "BARSIK USCHHAV PRANAMI",
+        "DoP": "09/06/2020",
+        "TranYear": "2020-2021",
+        "Amount": "1000.00",
+        "ReceiptNumber": "1044",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "423",
+        "PranamiId": "GRUHASANA Pranami",
+        "DoP": "09/06/2020",
+        "TranYear": "2020-2021",
+        "Amount": "1260.00",
+        "ReceiptNumber": "1044",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "426",
+        "PranamiId": "Janma Uschhav Pramani",
+        "DoP": "09/06/2020",
+        "TranYear": "2020-2021",
+        "Amount": "1000.00",
+        "ReceiptNumber": "1044",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "425",
+        "PranamiId": "Kendra Unanyan Pranami",
+        "DoP": "09/06/2020",
+        "TranYear": "2020-2021",
+        "Amount": "1200.00",
+        "ReceiptNumber": "1044",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "1721",
+        "PranamiId": "MASIKA PARICHALANA PRANAMI",
+        "DoP": "09/06/2020",
+        "TranYear": "2020-2021",
+        "Amount": "0.00",
+        "ReceiptNumber": "1044",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "1722",
+        "PranamiId": "MASIKA PARICHALANA PRANAMI",
+        "DoP": "09/06/2020",
+        "TranYear": "2020-2021",
+        "Amount": "1200.00",
+        "ReceiptNumber": "1044",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "424",
+        "PranamiId": "MUSTIVIKSHYA Pranami",
+        "DoP": "09/06/2020",
+        "TranYear": "2020-2021",
+        "Amount": "720.00",
+        "ReceiptNumber": "1044",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "429",
+        "PranamiId": "PALI  PRANAMI",
+        "DoP": "09/06/2020",
+        "TranYear": "2020-2021",
+        "Amount": "600.00",
+        "ReceiptNumber": "1044",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "428",
+        "PranamiId": "PALI  PRANAMI",
+        "DoP": "09/06/2020",
+        "TranYear": "2020-2021",
+        "Amount": "2700.00",
+        "ReceiptNumber": "1044",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "422",
+        "PranamiId": "PARICHAYA PATRA Pranami",
+        "DoP": "09/06/2020",
+        "TranYear": "2020-2021",
+        "Amount": "110.00",
+        "ReceiptNumber": "1044",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "421",
+        "PranamiId": "SAMMILANI ABAHAKA Pranami",
+        "DoP": "01/01/2023",
+        "TranYear": "2022-2023",
+        "Amount": "0.00",
+        "ReceiptNumber": "1044",
+        "MoP": "CASH"
+      }
+    ]
+  },
+  {
+    "BhaktaId": "SOUMYA PRAKASH JENA",
+    "UniqueId": "KSS0002",
+    "Transactions": [
+      {
+        "TranId": "430",
+        "PranamiId": "BARSIK USCHHAV PRANAMI",
+        "DoP": "10/01/2021",
+        "TranYear": "2020-2021",
+        "Amount": "600.00",
+        "ReceiptNumber": "1045",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "833",
+        "PranamiId": "MASIKA PARICHALANA PRANAMI",
+        "DoP": "21/03/2021",
+        "TranYear": "2020-2021",
+        "Amount": "1200.00",
+        "ReceiptNumber": "1255",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "1035",
+        "PranamiId": "MASIKA PARICHALANA PRANAMI",
+        "DoP": "13/11/2021",
+        "TranYear": "2021-2022",
+        "Amount": "1800.00",
+        "ReceiptNumber": "1325",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "1800",
+        "PranamiId": "Janma Uschhav Pramani",
+        "DoP": "17/07/2022",
+        "TranYear": "2022-2023",
+        "Amount": "100.00",
+        "ReceiptNumber": "1491",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "2112",
+        "PranamiId": "MASIKA PARICHALANA PRANAMI",
+        "DoP": "14/01/2023",
+        "TranYear": "2022-2023",
+        "Amount": "1800.00",
+        "ReceiptNumber": "1784",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "2220",
+        "PranamiId": "Kendra Unanyan Pranami",
+        "DoP": "2023-09-17",
+        "TranYear": "2023-2024",
+        "Amount": "100",
+        "ReceiptNumber": "1800",
+        "MoP": "CASH"
+      }
+    ]
+  },
+  {
+    "BhaktaId": "BABAJI CHARAN BARIK",
+    "UniqueId": "KSS0003",
+    "Transactions": [
+      {
+        "TranId": "432",
+        "PranamiId": "BARSIK USCHHAV PRANAMI",
+        "DoP": "10/01/2021",
+        "TranYear": "2020-2021",
+        "Amount": "500.00",
+        "ReceiptNumber": "1046",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "431",
+        "PranamiId": "MASIKA PARICHALANA PRANAMI",
+        "DoP": "10/01/2021",
+        "TranYear": "2020-2021",
+        "Amount": "1800.00",
+        "ReceiptNumber": "1046",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "628",
+        "PranamiId": "GRUHASANA Pranami",
+        "DoP": "14/03/2021",
+        "TranYear": "2020-2021",
+        "Amount": "730.00",
+        "ReceiptNumber": "1201",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "629",
+        "PranamiId": "MUSTIVIKSHYA Pranami",
+        "DoP": "14/03/2021",
+        "TranYear": "2020-2021",
+        "Amount": "200.00",
+        "ReceiptNumber": "1201",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "630",
+        "PranamiId": "PALI  PRANAMI",
+        "DoP": "14/03/2021",
+        "TranYear": "2020-2021",
+        "Amount": "3000.00",
+        "ReceiptNumber": "1201",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "1514",
+        "PranamiId": "BARSIK USCHHAV PRANAMI",
+        "DoP": "28/02/2022",
+        "TranYear": "2021-2022",
+        "Amount": "2000.00",
+        "ReceiptNumber": "1535",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "1511",
+        "PranamiId": "GRUHASANA Pranami",
+        "DoP": "28/02/2022",
+        "TranYear": "2021-2022",
+        "Amount": "1150.00",
+        "ReceiptNumber": "1535",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "1513",
+        "PranamiId": "Janma Uschhav Pramani",
+        "DoP": "28/02/2022",
+        "TranYear": "2021-2022",
+        "Amount": "200.00",
+        "ReceiptNumber": "1535",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "1509",
+        "PranamiId": "MASIKA PARICHALANA PRANAMI",
+        "DoP": "28/02/2022",
+        "TranYear": "2021-2022",
+        "Amount": "360.00",
+        "ReceiptNumber": "1535",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "1512",
+        "PranamiId": "MUSTIVIKSHYA Pranami",
+        "DoP": "28/02/2022",
+        "TranYear": "2021-2022",
+        "Amount": "480.00",
+        "ReceiptNumber": "1535",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "1510",
+        "PranamiId": "PARICHAYA PATRA Pranami",
+        "DoP": "28/02/2022",
+        "TranYear": "2021-2022",
+        "Amount": "110.00",
+        "ReceiptNumber": "1535",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "2053",
+        "PranamiId": "Janma Uschhav Pramani",
+        "DoP": "01/01/2023",
+        "TranYear": "2022-2023",
+        "Amount": "78.00",
+        "ReceiptNumber": "1765",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "2051",
+        "PranamiId": "MASIKA PARICHALANA PRANAMI",
+        "DoP": "01/01/2023",
+        "TranYear": "2022-2023",
+        "Amount": "1812.00",
+        "ReceiptNumber": "1765",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "2052",
+        "PranamiId": "PARICHAYA PATRA Pranami",
+        "DoP": "01/01/2023",
+        "TranYear": "2022-2023",
+        "Amount": "110.00",
+        "ReceiptNumber": "1765",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "2399",
+        "PranamiId": "BARSIK USCHHAV PRANAMI",
+        "DoP": "19/02/2023",
+        "TranYear": "2022-2023",
+        "Amount": "1000.00",
+        "ReceiptNumber": "1914",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "2397",
+        "PranamiId": "GRUHASANA Pranami",
+        "DoP": "19/02/2023",
+        "TranYear": "2022-2023",
+        "Amount": "730.00",
+        "ReceiptNumber": "1914",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "2398",
+        "PranamiId": "MUSTIVIKSHYA Pranami",
+        "DoP": "19/02/2023",
+        "TranYear": "2022-2023",
+        "Amount": "480.00",
+        "ReceiptNumber": "1914",
+        "MoP": "CASH"
+      }
+    ]
+  },
+  {
+    "BhaktaId": "GANESHWARA MOHARANA",
+    "UniqueId": "KSS0004",
+    "Transactions": [
+      {
+        "TranId": "434",
+        "PranamiId": "BARSIK USCHHAV PRANAMI",
+        "DoP": "10/01/2021",
+        "TranYear": "2020-2021",
+        "Amount": "500.00",
+        "ReceiptNumber": "1047",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "433",
+        "PranamiId": "MASIKA PARICHALANA PRANAMI",
+        "DoP": "10/01/2021",
+        "TranYear": "2020-2021",
+        "Amount": "1800.00",
+        "ReceiptNumber": "1047",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "456",
+        "PranamiId": "BARSIK USCHHAV PRANAMI",
+        "DoP": "10/01/2021",
+        "TranYear": "2020-2021",
+        "Amount": "500.00",
+        "ReceiptNumber": "1060",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "1060",
+        "PranamiId": "MASIKA PARICHALANA PRANAMI",
+        "DoP": "14/11/2021",
+        "TranYear": "2021-2022",
+        "Amount": "1500.00",
+        "ReceiptNumber": "1340",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "1491",
+        "PranamiId": "BARSIK USCHHAV PRANAMI",
+        "DoP": "26/02/2022",
+        "TranYear": "2021-2022",
+        "Amount": "170.00",
+        "ReceiptNumber": "1527",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "1490",
+        "PranamiId": "Janma Uschhav Pramani",
+        "DoP": "26/02/2022",
+        "TranYear": "2021-2022",
+        "Amount": "100.00",
+        "ReceiptNumber": "1527",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "1489",
+        "PranamiId": "MASIKA PARICHALANA PRANAMI",
+        "DoP": "26/02/2022",
+        "TranYear": "2021-2022",
+        "Amount": "730.00",
+        "ReceiptNumber": "1527",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "1838",
+        "PranamiId": "Janma Uschhav Pramani",
+        "DoP": "07/08/2022",
+        "TranYear": "2022-2023",
+        "Amount": "200.00",
+        "ReceiptNumber": "1638",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "2132",
+        "PranamiId": "OTHERS Pranami",
+        "DoP": "17/09/2022",
+        "TranYear": "2022-2023",
+        "Amount": "150.00",
+        "ReceiptNumber": "1687",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "2015",
+        "PranamiId": "GRUHASANA Pranami",
+        "DoP": "01/01/2023",
+        "TranYear": "2022-2023",
+        "Amount": "730.00",
+        "ReceiptNumber": "1755",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "2013",
+        "PranamiId": "MASIKA PARICHALANA PRANAMI",
+        "DoP": "01/01/2023",
+        "TranYear": "2022-2023",
+        "Amount": "1800.00",
+        "ReceiptNumber": "1755",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "2014",
+        "PranamiId": "PARICHAYA PATRA Pranami",
+        "DoP": "01/01/2023",
+        "TranYear": "2022-2023",
+        "Amount": "110.00",
+        "ReceiptNumber": "1755",
+        "MoP": "CASH"
+      }
+    ]
+  },
+  {
+    "BhaktaId": "ANSUMAN PATTANAIK",
+    "UniqueId": "KSS0005",
+    "Transactions": [
+      {
+        "TranId": "519",
+        "PranamiId": "BARSIK USCHHAV PRANAMI",
+        "DoP": "24/01/2021",
+        "TranYear": "2020-2021",
+        "Amount": "600.00",
+        "ReceiptNumber": "1082",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "518",
+        "PranamiId": "Janma Uschhav Pramani",
+        "DoP": "24/01/2021",
+        "TranYear": "2020-2021",
+        "Amount": "200.00",
+        "ReceiptNumber": "1082",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "517",
+        "PranamiId": "Kendra Unanyan Pranami",
+        "DoP": "24/01/2021",
+        "TranYear": "2020-2021",
+        "Amount": "365.00",
+        "ReceiptNumber": "1082",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "515",
+        "PranamiId": "MASIKA PARICHALANA PRANAMI",
+        "DoP": "24/01/2021",
+        "TranYear": "2020-2021",
+        "Amount": "300.00",
+        "ReceiptNumber": "1082",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "516",
+        "PranamiId": "PARICHAYA PATRA Pranami",
+        "DoP": "24/01/2021",
+        "TranYear": "2020-2021",
+        "Amount": "110.00",
+        "ReceiptNumber": "1082",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "520",
+        "PranamiId": "Upkarana Byabahar Pranami",
+        "DoP": "24/01/2021",
+        "TranYear": "2020-2021",
+        "Amount": "225.00",
+        "ReceiptNumber": "1082",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "854",
+        "PranamiId": "MASIKA PARICHALANA PRANAMI",
+        "DoP": "21/03/2021",
+        "TranYear": "2020-2021",
+        "Amount": "300.00",
+        "ReceiptNumber": "1270",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "855",
+        "PranamiId": "PARICHAYA PATRA Pranami",
+        "DoP": "21/03/2021",
+        "TranYear": "2020-2021",
+        "Amount": "110.00",
+        "ReceiptNumber": "1270",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "856",
+        "PranamiId": "GRUHASANA Pranami",
+        "DoP": "2023-09-18",
+        "TranYear": "2023-2024",
+        "Amount": "500",
+        "ReceiptNumber": "1280",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "857",
+        "PranamiId": "PARICHAYA PATRA Pranami",
+        "DoP": "2023-09-19",
+        "TranYear": "2023-2024",
+        "Amount": "110",
+        "ReceiptNumber": "1290",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "800",
+        "PranamiId": "SAMMILANI ABAHAKA Pranami",
+        "DoP": "2023-09-21",
+        "TranYear": "2023-2024",
+        "Amount": "5000",
+        "ReceiptNumber": "1800",
+        "MoP": "CASH"
+      }
+    ]
+  },
+  {
+    "BhaktaId": "ABHAYA CHARAN JENA",
+    "UniqueId": "KSS0006",
+    "Transactions": [
+      {
+        "TranId": "436",
+        "PranamiId": "BARSIK USCHHAV PRANAMI",
+        "DoP": "10/01/2021",
+        "TranYear": "2020-2021",
+        "Amount": "1000.00",
+        "ReceiptNumber": "1048",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "435",
+        "PranamiId": "MASIKA PARICHALANA PRANAMI",
+        "DoP": "10/01/2021",
+        "TranYear": "2020-2021",
+        "Amount": "1800.00",
+        "ReceiptNumber": "1048",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "663",
+        "PranamiId": "GRUHASANA Pranami",
+        "DoP": "14/03/2021",
+        "TranYear": "2020-2021",
+        "Amount": "730.00",
+        "ReceiptNumber": "1214",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "662",
+        "PranamiId": "PARICHAYA PATRA Pranami",
+        "DoP": "14/03/2021",
+        "TranYear": "2020-2021",
+        "Amount": "110.00",
+        "ReceiptNumber": "1214",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "1200",
+        "PranamiId": "BARSIK USCHHAV PRANAMI",
+        "DoP": "14/02/2022",
+        "TranYear": "2021-2022",
+        "Amount": "1000.00",
+        "ReceiptNumber": "1395",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "1198",
+        "PranamiId": "GRUHASANA Pranami",
+        "DoP": "14/02/2022",
+        "TranYear": "2021-2022",
+        "Amount": "730.00",
+        "ReceiptNumber": "1395",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "1199",
+        "PranamiId": "Janma Uschhav Pramani",
+        "DoP": "14/02/2022",
+        "TranYear": "2021-2022",
+        "Amount": "500.00",
+        "ReceiptNumber": "1395",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "1196",
+        "PranamiId": "MASIKA PARICHALANA PRANAMI",
+        "DoP": "14/02/2022",
+        "TranYear": "2021-2022",
+        "Amount": "1800.00",
+        "ReceiptNumber": "1395",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "1197",
+        "PranamiId": "PARICHAYA PATRA Pranami",
+        "DoP": "14/02/2022",
+        "TranYear": "2021-2022",
+        "Amount": "110.00",
+        "ReceiptNumber": "1395",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "1353",
+        "PranamiId": "PARICHAYA PATRA Pranami",
+        "DoP": "13/03/2022",
+        "TranYear": "2021-2022",
+        "Amount": "110.00",
+        "ReceiptNumber": "1458",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "1759",
+        "PranamiId": "MASIKA PARICHALANA PRANAMI",
+        "DoP": "22/05/2022",
+        "TranYear": "2022-2023",
+        "Amount": "900.00",
+        "ReceiptNumber": "1481",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "1829",
+        "PranamiId": "Janma Uschhav Pramani",
+        "DoP": "07/08/2022",
+        "TranYear": "2022-2023",
+        "Amount": "500.00",
+        "ReceiptNumber": "1630",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "1865",
+        "PranamiId": "ANCHALIKA PUJA PRANAMI",
+        "DoP": "09/09/2022",
+        "TranYear": "2022-2023",
+        "Amount": "300.00",
+        "ReceiptNumber": "1654",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "1899",
+        "PranamiId": "MASIKA PARICHALANA PRANAMI",
+        "DoP": "09/10/2022",
+        "TranYear": "2022-2023",
+        "Amount": "900.00",
+        "ReceiptNumber": "1711",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "2018",
+        "PranamiId": "BARSIK USCHHAV PRANAMI",
+        "DoP": "01/01/2023",
+        "TranYear": "2022-2023",
+        "Amount": "1000.00",
+        "ReceiptNumber": "1756",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "2017",
+        "PranamiId": "GRUHASANA Pranami",
+        "DoP": "01/01/2023",
+        "TranYear": "2022-2023",
+        "Amount": "730.00",
+        "ReceiptNumber": "1756",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "2019",
+        "PranamiId": "OTHERS Pranami",
+        "DoP": "01/01/2023",
+        "TranYear": "2022-2023",
+        "Amount": "60.00",
+        "ReceiptNumber": "1756",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "2016",
+        "PranamiId": "PARICHAYA PATRA Pranami",
+        "DoP": "01/01/2023",
+        "TranYear": "2022-2023",
+        "Amount": "110.00",
+        "ReceiptNumber": "1756",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "2681",
+        "PranamiId": "MASIKA PARICHALANA PRANAMI",
+        "DoP": "14/05/2023",
+        "TranYear": "2023-2024",
+        "Amount": "900.00",
+        "ReceiptNumber": "1987",
+        "MoP": "CASH"
+      },
+      {
+        "TranId": "2743",
+        "PranamiId": "Janma Uschhav Pramani",
+        "DoP": "13/08/2023",
+        "TranYear": "2023-2024",
+        "Amount": "500.00",
+        "ReceiptNumber": "2029",
+        "MoP": "CASH"
+      }
+    ]
+  }
+]

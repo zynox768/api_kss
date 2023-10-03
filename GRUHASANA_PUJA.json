@@ -1,0 +1,23 @@
+{
+  "0": {
+    "NAME": "SUDHANSUBALA NAYAK",
+    "DATE": "2023-10-02",
+    "PLACE": "PRACHI VIHAR , PALASUNI",
+    "PUJA TIMING": "6:30 AM - 12:30 PM",
+    "ID": "0"
+  },
+  "1": {
+    "NAME": "AKHILA KUMAR PANDA",
+    "DATE": "2023-10-07",
+    "PLACE": "PURI",
+    "PUJA TIMING": "6:00 AM - 12:30 PM",
+    "ID": "1"
+  },
+  "2": {
+    "NAME": "ANURADHA PATTNAIK",
+    "DATE": "2023-10-15",
+    "PLACE": "COSMOPOLIS , KHANDAGIRI",
+    "PUJA TIMING": "6:30 AM - 12:30 PM",
+    "ID": "2"
+  }
+}
