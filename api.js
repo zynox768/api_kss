@@ -217,28 +217,16 @@ try {
 }
 
 const users = userData.users;
-const loggedInUsers = [];
-
 // Login route
-app.post('/api/login', async (req, res) => {
+app.post('/api/login', (req, res) => {
     const { username, password } = req.body;
 
     // Check if the provided credentials match any user
-    const user = users.find((u) => u.username === username);
+    const user = users.find((u) => u.username === username && u.password === password);
 
     if (!user) {
         return res.status(401).json({ message: 'Invalid credentials' });
     }
-
-    // Verify the provided password against the hashed password stored in the user object
-    const passwordMatch = await bcrypt.compare(password, user.password);
-
-    if (!passwordMatch) {
-        return res.status(401).json({ message: 'Invalid credentials' });
-    }
-
-    // Add the user to the list of logged-in users
-    loggedInUsers.push({ username: user.username });
 
     // Generate a JWT token
     const token = jwt.sign({ username: user.username }, secretKey, {
@@ -247,19 +235,6 @@ app.post('/api/login', async (req, res) => {
 
     return res.status(200).json({ message: 'Login successful', token });
 });
-function isAuthenticated(req, res, next) {
-    const { username } = req.body;
-
-    // Check if the user is in the list of logged-in users
-    const user = loggedInUsers.find((u) => u.username === username);
-
-    if (user) {
-        // User is authenticated, proceed to the next middleware or route
-        return next();
-    } else {
-        return res.status(401).json({ message: 'User not authenticated' });
-    }
-}
 
 // Logout route
 app.post('/api/logout', (req, res) => {
@@ -276,6 +251,7 @@ app.post('/api/logout', (req, res) => {
         return res.status(401).json({ message: 'User not found or already logged out' });
     }
 });
+
 
 
 
