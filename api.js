@@ -1,7 +1,7 @@
 const express = require('express');
 const fs = require('fs');
 const app = express();
-const port = process.env.PORT | 3050;
+const port = 80;
 const cors = require('cors');
 const bcrypt = require('bcrypt'); // Add bcrypt for password hashing
 const session = require('express-session');
